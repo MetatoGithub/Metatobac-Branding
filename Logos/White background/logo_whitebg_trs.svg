@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="logo_whitebg_trs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.24804687"
+     inkscape:cx="967.55906"
+     inkscape:cy="967.55906"
+     inkscape:window-width="1280"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="16"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect7"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="M 0 0 L 0 511.99976 L 511.99976 511.99976 L 511.99976 0 L 0 0 z M 64.000228 32.000114 L 79.999768 32.000114 L 279.68009 231.67992 L 456.00007 40.666768 L 456.00007 40.000142 L 464.0001 32.000114 L 480.00016 32.000114 L 480.00016 48.000171 L 480.00016 431.99999 L 480.00016 448.00004 L 464.0001 448.00004 L 456.00007 440.00002 L 64.000228 48.000171 L 64.000228 32.000114 z M 32.000114 64.000228 L 48.000171 64.000228 L 448.00004 464.0001 L 448.00004 480.00016 L 431.99999 480.00016 L 247.67997 295.68014 L 48.000171 480.00016 L 32.000114 480.00016 L 32.000114 464.0001 L 231.67992 279.68009 L 32.000114 79.999768 L 32.000114 64.000228 z M 456.00007 74.000134 L 295.68014 247.67997 L 456.00007 407.9999 L 456.00007 74.000134 z " />
+  </g>
+</svg>
