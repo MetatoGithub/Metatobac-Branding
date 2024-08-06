@@ -23,13 +23,13 @@ Logos, Banners, Wallpapers and more for Metatobac
 If all instructions were followed properly, congratulations! You have made a Metatobac logo. If you discover any loopholes, feel free to open a Github issue.
 
 ## Colors
-Here is a list of the colors used inside the project.
-Black: `#000000`
-White: `#fffff`
-Dark: `#1a1a1a`
-Purple: `#620091`
+Here is a list of the colors used inside the project.<br>
+  Black: `#000000`<br>
+  White: `#fffff`<br>
+  Dark: `#1a1a1a`<br>
+  Purple: `#620091`<br>
 
 ## Font
-The font used in this project is called **Cybanin3000**
-This font was downloaded for free on [Yutaone's website](https://yutaone.booth.pm/) on August 1st 2024.
-The [file](Assets/readme_yutaone.txt) that was attached to these fonts clearly states that these fonts are free for private use, and available for commerial use under the terms and conditions mentionned above.
+The font used in this project is called **Cybanin3000**<br>
+This font was downloaded for free on [Yutaone's website](https://yutaone.booth.pm/) on August 1st 2024.<br>
+The [file](Assets/readme_yutaone.txt) that was attached to these fonts clearly states that these fonts are free for private use, and available for commerial use under the terms and conditions mentionned above.<br>
