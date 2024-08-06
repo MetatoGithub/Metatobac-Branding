@@ -1,6 +1,6 @@
 # Metatobac-Branding
 Logos, Banners, Wallpapers and more for Metatobac
-![Basic Metatobac logo with a purple background and a white logo](/Logos/SVGs/Purple background/logo_prlbg_white.svg)
+![Basic Metatobac logo with a purple background and a white logo]("/Logos/SVGs/Purple background/logo_prlbg_white.svg")
 
 ## Logo description
 ### The logo must use the following rules:
