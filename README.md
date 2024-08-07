@@ -23,7 +23,7 @@ Logos, Banners, Wallpapers and more for Metatobac
     - If the rules are followed properly, the line should follow the top right -> Bottom left direction and be paralell to and on the same axis as [3]
 + One vertical line ([5]) connecting lines [2] and [4]
     - This line should connect to the bottom right extremity of line [2] and the top right extremity of line [4]
-    - If the instructions were followed properly, this line should be at a 45 degree angle from [2]
+    - If the instructions were followed properly, this line should be at a 45 degree angle from [2] <br>
 If all instructions were followed properly, congratulations! You have made a Metatobac logo. If you discover any loopholes, feel free to open a Github issue.
 
 </details>
