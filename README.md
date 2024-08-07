@@ -4,6 +4,8 @@ Logos, Banners, Wallpapers and more for Metatobac
 
 ## Logo description
 ### The logo must use the following rules:
+<details>
+  <summary>Expand to view rules</summary>
 ![Metatobac logo with numbers showing the lines in order](/Assets/logo_tutorial.png)
 + Two paralell diagonal lines following the top left -> Bottom right direction ([1] and [2])
     - These lines must be centered, with a gap in between
@@ -21,6 +23,7 @@ Logos, Banners, Wallpapers and more for Metatobac
     - This line should connect to the bottom right extremity of line [2] and the top right extremity of line [4]
     - If the instructions were followed properly, this line should be at a 45 degree angle from [2]
 If all instructions were followed properly, congratulations! You have made a Metatobac logo. If you discover any loopholes, feel free to open a Github issue.
+</details>
 
 ## Colors
 Here is a list of the colors used inside the project.<br>
