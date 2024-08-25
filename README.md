@@ -34,8 +34,12 @@ Here is a list of the colors used inside the project.<br>
   White: `#fffff`<br>
   Dark: `#1a1a1a`<br>
   Purple: `#620091`<br>
+  Dark Purple: `#230050` <br>
+  Light: `#e8e3e3` <br>
 
 ## Font
-The font used in this project is called **Cybanin3000**<br>
-This font was downloaded for free on [Yutaone's website](https://yutaone.booth.pm/) on August 1st 2024.<br>
+The main font used in this project is called **Cybanin3000**<br>
+It is used for the text in banners, wallpapers and most places my name appear.<br>
+This font was downloaded for free on [Yutaone's BOOTH](https://yutaone.booth.pm/) on August 1st 2024.<br>
 The [file](Assets/readme_yutaone.txt) that was attached to these fonts clearly states that these fonts are free for private use, and available for commerial use under the terms and conditions mentionned above.<br>
+The fonts used for posters are also from Yutaone.<br>
