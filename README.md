@@ -35,6 +35,7 @@ Here is a list of the colors used inside the project.<br>
   Dark: `#1a1a1a`<br>
   Purple: `#620091`<br>
   Dark Purple: `#230050` <br>
+  Blue: `#0045ff` <br>
   Light: `#e8e3e3` <br>
 
 ## Font
